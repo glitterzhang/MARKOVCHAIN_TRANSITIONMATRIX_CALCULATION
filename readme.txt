@@ -1,3 +1,5 @@
+This project is using R programming to generate transitional matrix for optimizing the driving route. The algorithm of Markovchain can be use to optimize the route system of UBER.
+
 1.Data processing. 
  converted your data into the form shown in Inter.csv.
 
